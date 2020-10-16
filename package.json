@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
@@ -22,6 +22,7 @@
     "mongoose": "^5.7.7",
     "multiparty": "^4.2.1",
     "mysql": "^2.17.1",
+    "razorpay": "^2.0.6",
     "react-s3-uploader": "^4.9.2"
   }
 }
